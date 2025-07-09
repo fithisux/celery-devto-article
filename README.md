@@ -1,6 +1,6 @@
 ## The article
 
-Medium post with more details, [https://fithis2001.medium.com/beginners-celery-flask-example-57e45236016a](here)
+Medium post with more details, [Beginner’s Celery/Flask example]([here](https://fithis2001.medium.com/beginners-celery-flask-example-57e45236016a))
 
 ## How to run:
 
